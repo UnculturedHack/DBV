@@ -1,3 +1,15 @@
 <Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DBVCore/DBVCore.csproj" Id="a48654ff-3beb-4d5e-b6e1-7e088368e750" />
+  <Project Path="DBVDesktopClient/DBVDesktopClient.csproj" />
+  <Project Path="DBVWebClient/dbvwebclient.esproj">
+    <Platform Project="AnyCPU" />
+    <Build />
+    <Deploy />
+  </Project>
   <Project Path="Server/Server.csproj" />
 </Solution>
