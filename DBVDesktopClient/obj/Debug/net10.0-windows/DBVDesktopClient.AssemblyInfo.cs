@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DBVDesktopClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cecfe4244b258116dd193f62b104869dc4434097")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f405c7152f34edab1e15eaffb5edf67e10da1701")]
 [assembly: System.Reflection.AssemblyProductAttribute("DBVDesktopClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DBVDesktopClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -296,9 +296,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Michael Adamson\\Desktop\\src\\DBV\\Server\\Server.csproj",
-      "projectName": "Server",
-      "projectPath": "C:\\Users\\Michael Adamson\\Desktop\\src\\DBV\\Server\\Server.csproj",
+      "projectUniqueName": "C:\\Users\\Michael Adamson\\Desktop\\src\\DBV\\Server\\DBVServer.csproj",
+      "projectName": "DBVServer",
+      "projectPath": "C:\\Users\\Michael Adamson\\Desktop\\src\\DBV\\Server\\DBVServer.csproj",
       "packagesPath": "C:\\Users\\Michael Adamson\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Michael Adamson\\Desktop\\src\\DBV\\Server\\obj\\",
       "projectStyle": "PackageReference",
