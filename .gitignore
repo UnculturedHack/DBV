@@ -1,1 +1,8 @@
 .vs/
+Server/obj/
+Server/bin/
+DBVCore/obj/
+DBVCore/bin/
+DBVDesktopClient/obj/
+DBVDesktopClient/bin/
+dbvwebclient/obj/
